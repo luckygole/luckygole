@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lucky gole</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **golelaksh@gmail.com**
 
