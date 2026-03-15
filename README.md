@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lucky gole</h1>
+<!-- <h1 align="center">Hi 👋, I'm lucky gole</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 - 🌱 I’m currently learning **DSA**
@@ -31,4 +31,68 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
+
+
+<h1 align="center">Hi 👋, I'm Lucky Gole</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=luckygole&label=Profile%20views&color=0e75b6&style=flat" alt="luckygole" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BCA Student  
+- 💻 Full Stack Web Developer  
+- 🌱 Currently learning **DSA & Advanced JavaScript**  
+- 🚀 Love building modern web applications  
+- 📫 Reach me at **golelaksh@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/laksh-gole-81502731a" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,php,git,github,vscode,bootstrap,tailwind,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luckygole&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckygole&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckygole&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/luckygole/luckygole/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
