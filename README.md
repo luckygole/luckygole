@@ -86,15 +86,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
 
 <p align="center">
-<!-- <img src="https://raw.githubusercontent.com/luckygole/luckygole/output/github-contribution-grid-snake.svg" />
- ![snake gif](https://github.com/luckygole/luckygole/blob/output/github-contribution-grid-snake.svg) -->
- <img src="https://github.com/luckygole/luckygole/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/luckygole/luckygole/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 ---
 
 ⭐ **Thanks for visiting my profile!**
